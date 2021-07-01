@@ -1,13 +1,16 @@
 body{
-    margin: 0;
     font-size: 30px;
-    background-color: beige;
+    background-color:black;
 }
 
+.div{
+    margin: 0;
+
+}
 
 .image{
     height: 100vh;
-    background-image: url(../img/white.png);
     background-size: cover;
     background-repeat: no-repeat;     
 }
+
