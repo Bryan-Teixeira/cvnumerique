@@ -1,10 +1,17 @@
-body{
-    font-size: 30px;
-    background-color:black;
+header{
+    background-color: cyan;
 }
+
+body{
+    text-shadow:0 0 20px #00FFFC,2px 3px 3px #141414, 0 0 100px #00D4D1;color:#00FFFC;
+    background-color:black;
+    outline-style: solid;
+    outline-color: blueviolet;
+}
+
+
 
 .div{
     margin: 0;
 }
-
 
